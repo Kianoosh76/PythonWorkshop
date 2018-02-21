@@ -15,14 +15,12 @@
 }
 
 .persian {
-	font-family: "XB Zar";
 	font-size: 17pt;
 	line-height:300%;
 	direction: rtl;
 }
 
 .english {
-	font-family: "XB Zar";
 	font-size: 17pt;
 	line-height:200%;
 	direction:ltr;
